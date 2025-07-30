@@ -6,3 +6,4 @@ print("this is branch A")
 =======
 print(f"hello, {name}!")
 # >>>>>>> main
+print("this is a resolved version")
